@@ -61,42 +61,32 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 26 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26/IESTI01_TinyML_class_26.pdf)  [[Video]](https://youtu.be/x439ha4gg2g)
 + Class 27 - Collecting Data - Alternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/oYRl-UhFZ-U)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/8-kkzuLYl4Q)
-+ Class 29 and 30 - Group Presentations [[Video]](https://youtu.be/2Y6fL_PjL2w)
-  - Group 1 - Classificador de Vogais em Libras [[Doc]](00_Curse_Folder/3_Final_Projects/Libras-Trabalho-IESTI01.pdf) [[Video]](https://youtu.be/P9h7r_xhWc8)
-  - Group 2 - Detecção de doença pulmonar (DPOC) [[Doc]](00_Curse_Folder/3_Final_Projects/COPD-IESTI01_Projeto_Final.pdf) [[Video]](https://youtu.be/gjVJFaGKl6E)
-  - Group 3 - Detecção de algarismos em hidrômetros [[Doc]](00_Curse_Folder/3_Final_Projects/hidrometro-Projeto_Final_IESTI01.pdf) [[Video]](https://youtu.be/rV6lmdJqsvc)
-  - Group 4 - Detecção de Roncos [[Doc]](00_Curse_Folder/3_Final_Projects/Ronco-Proj_final_IESTI01.pdf) [[Video]](https://youtu.be/DbujrQEzVy8)
-  - Group 5 - SCancer (No TinyML) [[Video]](https://youtu.be/QCH9iYNjDJc)
++ Class 29 and 30 - Group Presentations
 <hr>
 
-## Relevancia do aprendizado do TinyML
-Como sabemos, os microcontroladores (ou MCUs) são componentes eletrônicos muito baratos, geralmente com apenas alguns kilobytes de RAM e projetados para consumir pequenas quantidades de energia. Hoje em dia, os MCUs podem ser encontrados incorporados em quase todos os dispositivos residenciais, médicos, automotivos e industriais. Estima-se que mais de 40 bilhões de microcontroladores serão vendidos este ano e provavelmente centenas de bilhões deles esteja em serviço atualmente. Mas, curiosamente, esses dispositivos não recebem muita atenção porque muitas vezes são usados apenas para substituir funcionalidades que os sistemas eletromecânicos mais antigos faziam em carros, máquinas de lavar ou controles remotos.
+## Relevance of TinyML Learning
+  Microcontrollers (MCUs) are affordable electronic components, usually with only a few kilobytes of RAM, and designed to consume minimal power. Currently, MCUs are embedded in nearly all residential, medical, automotive, or industrial devices. It's estimated that over 40 billion microcontrollers are sold annually, and probably hundreds of billions are currently in service. However, interestingly, these devices often need to receive the proper attention, as they are frequently used merely as replacements for the functionalities that older electromechanical systems used to perform in cars, washing machines, or remote controls.
+  More recently, with the advent of the Internet of Things (IoT), a significant portion of these MCUs has started generating "quintillions" of data, much of which goes unused due to the high cost and complexity of transmission (bandwidth and latency).
+  On the other hand, in the past few decades, we've witnessed the development of Machine Learning models (a sub-field of Artificial Intelligence) trained on large datasets using powerful mainframes. But what's happening now is that suddenly, it has become possible to extract "meaning" from noisy and complex data like images, audio, or vibrations, using neural networks. And importantly, we can run these neural network models on microcontrollers and sensors, using very little power to interpret much more of the sensor data we typically overlook. This is TinyML, a new field that enables extracting "machine intelligence" right in the physical world (where the data is generated).
 
-Mais recentemente, com a era da IoT (Internet das Coisas), uma parte significativa desses MCUs está gerando “quintilhões” de dados, que em sua maioria, não são utilizados devido ao alto custo e complexidade de sua transmissão de dados (largura de banda e latência).
-
-Por outro lado, nas últimas décadas, assistimos ao desenvolvimento de modelos de Aprendizado de Máquina (também conhecido como Inteligência Artificial) treinados com "toneladas" de dados e em poderosos mainframes. Mas o que está acontecendo hoje é que, de repente, tornou-se possível, à partir de sinais "ruidosos" e complexos como imagens, áudio ou acelerômetros e extrair significado deles através do uso de redes neurais. E o que é mais importante, é que podemos executar esses modelos de redes neurais em microcontroladores e sensores usando muito pouca energia e assim, interpretando muito mais dos dados de sensores que estamos atualmente ignorando. Este é o TinyML, uma nova área que permite extrair "inteligência de máquina" bem no mundo físico (onde os dados são gerados).
-
-## Visão geral do curso
-
-TinyML é um curso introdutório na interseção entre o Aprendizado de Máquina (Machine Learning) e dispositivos embarcados (Embedded Devices). A difusão de dispositivos embarcados com ultra-baixo consumo de energia (da ordem de miliwatts), juntamente com a introdução de frameworks de aprendizado de máquina dedicados a dispositivos embarcados, como TensorFlow Lite para Microcontroladores (TF Lite Micro), permitirão a proliferação em massa de dispositivos IoT potencializados por IA (“AioT”). 
-
-O crescimento explosivo do aprendizado de máquina e a facilidade de uso de plataformas como TensorFlow (TF) o tornam um tópico de estudo indispensável para estudantes de Engenharia Eletrônica, da Computação e Controle & Automação. 
-
-O TinyML difere do aprendizado de máquina convencional (por exemplo, servidor - nuvem) porque requer não apenas conhecimentos em software, mas também conhecimentos em hardware integrado. Este curso procura fornecer uma base para o entendimento deste campo emergente.
+## Course Overview
+  TinyML is an introductory course at the intersection of Machine Learning and Embedded Devices. The proliferation of embedded devices with ultra-low power consumption (on the order of milliwatts), coupled with the introduction of machine learning frameworks dedicated to embedded devices, such as TensorFlow Lite for Microcontrollers (TFLite Micro or TFLM), enables the widespread adoption of AI-powered IoT devices, known as "AioT."
+  Furthermore, the explosive growth of machine learning and the user-friendliness of platforms like TensorFlow (TF) make it an essential subject of study for engineering students, especially in Electronics, Computer Science, and Control & Automation.
+  TinyML differs from conventional machine learning (e.g., server-cloud-based) because it requires software knowledge and expertise in embedded hardware. This course aims to provide a foundation for understanding this emerging field.
 
 ## Referências
-A atual versão deste curso, pioneiro na América Latina, tem como principais referências:
+  The current version of this pioneering course in Latin America is primarily based on:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 + [Computer Vision with Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
-+ Fundamentals text book: ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python) - [GitHub Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-+ Applications & Deploy text book: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
++ Fundamentals textbook: ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python) - [GitHub Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
++ Applications & Deploy textbook: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
 + Deploy Text Book ["TinyML Cookbook" by Gian Marco Iodice](https://github.com/PacktPublishing/TinyML-Cookbook)
 + ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 + ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
 
-IESTI01 faz parte do [TinyML4D](https://tinyml.seas.harvard.edu/), uma iniciativa para tornar a ensino do TinyML disponível para todos em todo o mundo.
+## The IESTI01 course is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make TinyML education available globally.
 
 ## Tópicos do curso
 
