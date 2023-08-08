@@ -65,7 +65,7 @@ For the previous versions of IESTI01 courses, please visit:
 <hr>
 
 ## Relevance of TinyML Learning
-Microcontrollers (MCUs) are affordable electronic components, usually with only a few kilobytes of RAM, and designed to consume minimal power. Currently, MCUs are embedded in nearly all residential, medical, automotive, or industrial devices. It's estimated that over 40 billion microcontrollers are sold annually, and probably hundreds of billions are currently in service. However, interestingly, these devices often need to receive the proper attention, as they are frequently used merely as replacements for the functionalities that older electromechanical systems used to perform in cars, washing machines, or remote controls.
+Microcontrollers (MCUs) are affordable electronic components, usually with only a few kilobytes of RAM, and designed to consume minimal power. MCUs are embedded in nearly all residential, medical, automotive, or industrial devices. It's estimated that over 40 billion microcontrollers are sold annually, and probably hundreds of billions are currently in service. However, interestingly, these devices often need to receive the proper attention, as they are frequently used merely as replacements for the functionalities that older electromechanical systems used to perform in cars, washing machines, or remote controls.
   
 More recently, with the advent of the Internet of Things (IoT), a significant portion of these MCUs has started generating "quintillions" of data, much of which goes unused due to the high cost and complexity of transmission (bandwidth and latency).
 
@@ -78,7 +78,7 @@ Furthermore, the explosive growth of machine learning and the user-friendliness 
   
 TinyML differs from conventional machine learning (e.g., server-cloud-based) because it requires software knowledge and expertise in embedded hardware. This course aims to provide a foundation for understanding this emerging field.
 
-## Referências
+## References
 The current version of this pioneering course in Latin America is primarily based on:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
@@ -125,18 +125,18 @@ The current version of this pioneering course in Latin America is primarily base
 + Proficiency in the English language (for reading).
 + Basic programming knowledge in C/C++ (Arduino IDE) and Python. All class tasks will involve one or both programming languages.
 + Familiarity with command-line tools on Mac, Windows, or Linux. Projects will require some operations in a terminal.
-+ Understanding linear algebra, signal analysis, basic probability, and statistics. Many ML topics revolve around grasping vector and matrix operations and notation and concepts like Gaussian distributions, means, standard deviations, etc.
++ Understanding linear algebra, signal analysis, basic probability, and statistics. Many ML topics revolve around grasping vector and matrix operations, notation, and concepts like Gaussian distributions, means, standard deviations, etc.
 
-## Metodologia/Recursos: 
-+ As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 13:30h às 15:30h (horário de Brasília). As gravações das aulas estarão disponíveis aos alunos para revisão. 
-+ Exercícios e projetos poderão ser desenvolvidos em computadores pessoais com TensorFlow V.2x instalados ou utilizando-se de ferramentas on-line como [Google CoLab](https://colab.research.google.com/notebooks/intro.ipynb).
-+ Modelos reais de TinyML serão desenvolvidos e treinados utilizando-se do [Edge Impulse Studio](https://www.edgeimpulse.com/).
-+ Para a captura inicial de dados, deployment dos modelos treinados e familiarização das ferramentas de mercado, serão utilizados inicialmante smart-phones pessoais dotados de pelo menos sensores do tipo: acelerômetro, microfone e camera.
-+ Na segunda parte do curso será utilizado um [Kit](https://store-usa.arduino.cc/products/arduino-tiny-machine-learning-kit) composto de um Arduino BLE Sense (Cortex-M4) e uma camera digital modelo OV7675 (Cada aluno receberá um Kit, disponibilizado pela universidade para seu uso pessoal durante o decorrer do curso). 
+## Methodology/Resources:
++ Students will be able to take classes sequentially at their convenience.
++ Exercises and projects can be developed on personal computers with TensorFlow v2.x installed or by utilizing online tools like Google Colab (desirable).
++ Real TinyML models will be developed and trained using the Edge Impulse Studio.
++ For initial data capture, deployment of trained models, and familiarization with market tools, personal smartphones equipped with at least an accelerometer, microphone, and camera sensors will be used.
++ In the second part of the course, an Arduino BLE Sense (Cortex-M4) Kit and a digital camera model OV7675 will be used. (Each student will receive a Kit the university provides for personal use during the course.)
 
-## Professor do curso:
+## Professor:
 + [Marcelo José Rovai](http://lattes.cnpq.br/4234592863079468)
 
-## Supervisão e apoio:
+## Supervision and support:
 + [José Alberto Ferreira](http://lattes.cnpq.br/8319509175327154)
 
