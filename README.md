@@ -65,17 +65,21 @@ For the previous versions of IESTI01 courses, please visit:
 <hr>
 
 ## Relevance of TinyML Learning
-  Microcontrollers (MCUs) are affordable electronic components, usually with only a few kilobytes of RAM, and designed to consume minimal power. Currently, MCUs are embedded in nearly all residential, medical, automotive, or industrial devices. It's estimated that over 40 billion microcontrollers are sold annually, and probably hundreds of billions are currently in service. However, interestingly, these devices often need to receive the proper attention, as they are frequently used merely as replacements for the functionalities that older electromechanical systems used to perform in cars, washing machines, or remote controls.
-  More recently, with the advent of the Internet of Things (IoT), a significant portion of these MCUs has started generating "quintillions" of data, much of which goes unused due to the high cost and complexity of transmission (bandwidth and latency).
-  On the other hand, in the past few decades, we've witnessed the development of Machine Learning models (a sub-field of Artificial Intelligence) trained on large datasets using powerful mainframes. But what's happening now is that suddenly, it has become possible to extract "meaning" from noisy and complex data like images, audio, or vibrations, using neural networks. And importantly, we can run these neural network models on microcontrollers and sensors, using very little power to interpret much more of the sensor data we typically overlook. This is TinyML, a new field that enables extracting "machine intelligence" right in the physical world (where the data is generated).
+Microcontrollers (MCUs) are affordable electronic components, usually with only a few kilobytes of RAM, and designed to consume minimal power. Currently, MCUs are embedded in nearly all residential, medical, automotive, or industrial devices. It's estimated that over 40 billion microcontrollers are sold annually, and probably hundreds of billions are currently in service. However, interestingly, these devices often need to receive the proper attention, as they are frequently used merely as replacements for the functionalities that older electromechanical systems used to perform in cars, washing machines, or remote controls.
+  
+More recently, with the advent of the Internet of Things (IoT), a significant portion of these MCUs has started generating "quintillions" of data, much of which goes unused due to the high cost and complexity of transmission (bandwidth and latency).
+
+On the other hand, in the past few decades, we've witnessed the development of Machine Learning models (a sub-field of Artificial Intelligence) trained on large datasets using powerful mainframes. But what's happening now is that suddenly, it has become possible to extract "meaning" from noisy and complex data like images, audio, or vibrations, using neural networks. And importantly, we can run these neural network models on microcontrollers and sensors, using very little power to interpret much more of the sensor data we typically overlook. This is TinyML, a new field that enables extracting "machine intelligence" right in the physical world (where the data is generated).
 
 ## Course Overview
-  TinyML is an introductory course at the intersection of Machine Learning and Embedded Devices. The proliferation of embedded devices with ultra-low power consumption (on the order of milliwatts), coupled with the introduction of machine learning frameworks dedicated to embedded devices, such as TensorFlow Lite for Microcontrollers (TFLite Micro or TFLM), enables the widespread adoption of AI-powered IoT devices, known as "AioT."
-  Furthermore, the explosive growth of machine learning and the user-friendliness of platforms like TensorFlow (TF) make it an essential subject of study for engineering students, especially in Electronics, Computer Science, and Control & Automation.
-  TinyML differs from conventional machine learning (e.g., server-cloud-based) because it requires software knowledge and expertise in embedded hardware. This course aims to provide a foundation for understanding this emerging field.
+TinyML is an introductory course at the intersection of Machine Learning and Embedded Devices. The proliferation of embedded devices with ultra-low power consumption (on the order of milliwatts), coupled with the introduction of machine learning frameworks dedicated to embedded devices, such as TensorFlow Lite for Microcontrollers (TFLite Micro or TFLM), enables the widespread adoption of AI-powered IoT devices, known as "AioT."
+  
+Furthermore, the explosive growth of machine learning and the user-friendliness of platforms like TensorFlow (TF) make it an essential subject of study for engineering students, especially in Electronics, Computer Science, and Control & Automation.
+  
+TinyML differs from conventional machine learning (e.g., server-cloud-based) because it requires software knowledge and expertise in embedded hardware. This course aims to provide a foundation for understanding this emerging field.
 
 ## Referências
-  The current version of this pioneering course in Latin America is primarily based on:
+The current version of this pioneering course in Latin America is primarily based on:
 + [Harvard School of Engineering and Applied Sciences - CS249r: Tiny Machine Learning](https://sites.google.com/g.harvard.edu/tinyml/home)
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
@@ -86,43 +90,42 @@ For the previous versions of IESTI01 courses, please visit:
 + ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
 + ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
 
-## The IESTI01 course is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make TinyML education available globally.
+### The IESTI01 course is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make TinyML education available globally.
 
-## Tópicos do curso
-
-+	Fundamentos de IoT
-+	Fundamentos de aprendizado de máquina (ML)
-+	Fundamentos de Deep Learning (DL)
-+	Como coletar dados para ML
-+	Como treinar e implantar modelos de ML
-+	Noções básicas sobre ML embarcado
-+	O código por trás de alguns dos aplicativos mais amplamente utilizados no TinyML
-+	Casos reais de aplicação do TinyML na indústria
-+	Princípios de reconhecimento automático de fala (KeyWord Spotting apps como Alexa, Hey Google, Siri, etc.)
-+	Princípios do classificação automática de imagens (Visual Wake Words)
-+	Conceito de detecção de anomalias e modelos de ML aplicáveis 
-+	Princípios de Engenharia de Dados aplicado ao TinyML
-+	Visão geral do hardware de dispositivos baseados em microcontroladores
-+	Visão geral do software por trás de dispositivos baseados em microcontroladores
-+	Projetos reais utilizando plataformas de mercado
-+	Design, desenvolvimento e Implantação de uma IA responsável
+## Course Topics
+1. Fundamentals of IoT
+2. Fundamentals of Machine Learning (ML)
+3. Fundamentals of Deep Learning (DL)
+4. Collecting Data for ML
+5. Training and Deploying ML Models
+6. Basics of Embedded ML
+7. Code behind some of the most widely used applications in TinyML
+8. Real-world applications of TinyML in the industry
+9. Principles of Automatic Speech Recognition (Keyword Spotting apps like Alexa, Hey Google, Siri, etc.)
+10. Principles of Automatic Image Classification (Visual Wake Words)
+11. Anomaly Detection Concepts and Applicable ML Models
+12. Principles of Data Engineering applied to TinyML
+13. Overview of microcontroller-based device hardware
+14. Overview of software behind microcontroller-based devices
+15. Real projects using market platforms
+16. Design, Development, and Deployment of Responsible AI
 
 ## Carga horária: 
-+	30hs (Classes de 2hs, durante 15 semanas) 
-+	15hs de tarefas/labs
-+	15hs em pesquisas e estudos individuais + trabalho final (em grupo)
++	30 hours (Recorded videos) 
++	15 hours de assignments/labs
++	15 hours of individual research and study + final group project
 
-## Processo de aprovação:
-+ Participação individual em classe (Quiz semanal): 20%
-+	Code Assignments (ML/DL) (Jupyter Notebook / CoLab): 25%
-+	Projetos práticos (Relatórios de Laboratórios): 25%
-+	Projeto Final em Grupo(com apresentação): 30%
+## Approval Process:
++ Individual Quiz Responses: 20%
++ Code Assignments (ML/DL) (Jupyter Notebook / CoLab): 25%
++ Practical Projects (Laboratory Reports): 25%
++ Final Group Project (with presentation): 30%
 
-## Pré-requisitos
-+ Conhecimentos do idioma inglês (leitura).
-+ Conhecimentos básicos de programação em  C/C++ (Arduino IDE) e Python. Todas as tarefas de classe envolverão uma ou ambas linguagens de programação.
-+ Familiaridade com ferramentas de linha de comando em Mac, Windows ou Linux. Os projetos exigirão algumas operações em um terminal.
-+ Noções de Algebra linear, análise de sinais, probabilidade básica e estatística. Muitos tópicos de ML giram em torno de compreender operações e notação de vetores e matrizes, bem como conceitos de distribuições gaussianas, médias, desvios-padrão etc.
+## Prerequisites:
++ Proficiency in the English language (for reading).
++ Basic programming knowledge in C/C++ (Arduino IDE) and Python. All class tasks will involve one or both programming languages.
++ Familiarity with command-line tools on Mac, Windows, or Linux. Projects will require some operations in a terminal.
++ Understanding linear algebra, signal analysis, basic probability, and statistics. Many ML topics revolve around grasping vector and matrix operations and notation and concepts like Gaussian distributions, means, standard deviations, etc.
 
 ## Metodologia/Recursos: 
 + As aulas serão ministradas de maneira remota e ao vivo (aulas síncronas) pela plataforma Google Meet, todas as quartas-feiras das 13:30h às 15:30h (horário de Brasília). As gravações das aulas estarão disponíveis aos alunos para revisão. 
