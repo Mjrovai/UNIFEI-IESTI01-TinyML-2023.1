@@ -1,6 +1,6 @@
-# UNIFEI-IESTI01-TinyML-2023.1
+# UNIFEI-IESTI01-TinyML
 ## TinyML - Machine Learning for Embedding Devices
-**2023 - 1st Semester**
+**UPDATED to 2024 - 1st Semester**
 
 <img src='images/IESTI_2.jpg'/>
 <figcaption><a href='https://unifei.edu.br/iesti/'>Instituto de Engenharia de Sistemas e Tecnologias da Informação – IESTI - Campus de Itajubá</a></figcaption>
@@ -85,11 +85,16 @@ The current version of this pioneering course in Latin America is primarily base
 + [Professional Certificate in Tiny Machine Learning (TinyML) – edX/Harvard](https://www.edx.org/professional-certificate/harvardx-tiny-machine-learning)
 + [Introduction to Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/introduction-to-embedded-machine-learning)
 + [Computer Vision with Embedded Machine Learning - Coursera/Edge Impulse](https://www.coursera.org/learn/computer-vision-with-embedded-machine-learning)
-+ Fundamentals textbook: ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python) - [GitHub Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
-+ Applications & Deploy textbook: ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
-+ Deploy Text Book ["TinyML Cookbook" by Gian Marco Iodice](https://github.com/PacktPublishing/TinyML-Cookbook)
-+ ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
-+ ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
++ Fundamentals textbooks:
+  + ["Python for Data Analysis by Wes MacKinney"](https://wesmckinney.com/book/)
+  + ["Deep Learning with Python" by François Chollet](https://www.manning.com/books/deep-learning-with-python) - [GitHub Notebooks](https://github.com/fchollet/deep-learning-with-python-notebooks)
+  + ["Technical Strategy for AI Engineers, In the Era of Deep Learning" by Andrew Ng](https://github.com/ajaymache/machine-learning-yearning/blob/master/full%20book/machine-learning-yearning.pdf)
++ Applications & Deploy textbooks:
+  + ["TinyML" by Pete Warden, Daniel Situnayake](https://www.oreilly.com/library/view/tinyml/9781492052036/)
+  + [“AI at the Edge” book by Daniel Situnayake and Jenny Plunkett](https://www.oreilly.com/library/view/ai-at-the/9781098120191/)
+  + ["TinyML Cookbook 2E" by Gian Marco Iodice](https://github.com/PacktPublishing/TinyML-Cookbook_2E)
+  + [“MACHINE LEARNING SYSTEMS for TinyML” by a collaborative effort](https://harvard-edge.github.io/cs249r_book/)
+
 
 ### The IESTI01 course is part of the [TinyML4D](https://tinyml.seas.harvard.edu/), an initiative to make TinyML education available globally.
 
