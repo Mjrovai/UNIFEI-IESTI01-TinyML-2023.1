@@ -61,7 +61,7 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 26 - Image Classification using Edge Impulse Studio [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_26/IESTI01_TinyML_class_26.pdf)  [[Video]](https://youtu.be/x439ha4gg2g)
 + Class 27 - Collecting Data - Alternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/oYRl-UhFZ-U)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/8-kkzuLYl4Q)
-+ Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[video]](https://youtu.be/mC4WiH_AaMg)
++ Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[Video]](https://youtu.be/mC4WiH_AaMg)
 + Class 30 - Group Presentations
 <hr>
 
