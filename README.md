@@ -64,6 +64,10 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[Video]](https://youtu.be/mC4WiH_AaMg)
 + Class 30 - Group Presentations
   + Monitoramento Acústico de Fluxo Hídrico [[Report]]()[[Video]](https://youtu.be/qnwZsdTilxs)
+  + Detecção de Quedas de pessoas [[Report]]()[[Video]](https://www.youtube.com/watch?v=7BsHzaYMCd8)
+  + Detecção de doenças em folhas de tomate [[Report]]()[[Video]]()
+  + Contagem de Capacitores [[Report]]()[[Video]](https://youtu.be/Wa7THRv9V4c)
+  + identificar os estilos musicais[[Report]]()[[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
 <hr>
 
 ## Relevance of TinyML Learning
