@@ -62,12 +62,15 @@ For the previous versions of IESTI01 courses, please visit:
 + Class 27 - Collecting Data - Alternative ways [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_27/IESTI01_TinyML_class_27.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_27) [[Video]](https://youtu.be/oYRl-UhFZ-U)
 + Class 28 - Responsible AI & Course Wrap-up [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_28/IESTI01_TinyML_class_28.pdf) [[Docs]](00_Curse_Folder/2_Applications_Deploy/Class_28/docs) [[Video]](https://youtu.be/8-kkzuLYl4Q)
 + Class 29 - EdgeAI: Going Further [[Slides]](/00_Curse_Folder/2_Applications_Deploy/Class_29/IESTI01_TinyML_class_29.pdf) [[Video]](https://youtu.be/mC4WiH_AaMg)
-+ Class 30 - Group Presentations
-  + Monitoramento Acústico de Fluxo Hídrico [[Report]]()[[Video]](https://youtu.be/qnwZsdTilxs)
-  + Detecção de Quedas de pessoas [[Report]]()[[Video]](https://www.youtube.com/watch?v=7BsHzaYMCd8)
-  + Detecção de doenças em folhas de tomate [[Report]]()[[Video]]()
-  + Contagem de Capacitores [[Report]]()[[Video]](https://youtu.be/Wa7THRv9V4c)
-  + identificar os estilos musicais[[Report]]()[[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
++ Class 30 - Group Presentations (2024)
+  + Monitoramento Acústico de Fluxo Hídrico [[Report]]() [[Video]](https://youtu.be/qnwZsdTilxs)
+  + Detecção de Quedas de pessoas [[Report]]() [[Video]](https://www.youtube.com/watch?v=7BsHzaYMCd8)
+  + Contagem de Capacitores [[Report]]() [[Video]](https://youtu.be/Wa7THRv9V4c)
+  + Identificador de estilos musicais[[Report]]() [[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
+  + Teste de qualidade de Produtos [[Report]]() [[Video]](https://youtu.be/5t2TAhu-h50)
+  + Detecção de doenças em folhas de tomate [[Report]]()
+  + Afinador de violão [[Report]]() 
+    
 <hr>
 
 ## Relevance of TinyML Learning
