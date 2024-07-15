@@ -68,8 +68,8 @@ For the previous versions of IESTI01 courses, please visit:
   + Contagem de Capacitores [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/monitor_capacitor.pdf) [[Video]](https://youtu.be/Wa7THRv9V4c)
   + Identificador de estilos musicais[[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/identificador_estilos_musicais.pdf) [[Video]](https://youtu.be/KfVXU62bcRQ?si=jPZCSlwS1WNSguNF)
   + Teste de qualidade de Produtos [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Teste_qualidade.pdf) [[Video]](https://youtu.be/5t2TAhu-h50)
+  + Afinador de violão [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/afinador_violao.pdf) [[Video]](https://youtu.be/X9sGIUbH6mk)
   + Detecção de doenças em folhas de tomate [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/Detec_doencas_folhas_tomate.pdf)
-  + Afinador de violão [[Report]](00_Curse_Folder/2_Applications_Deploy/Final_Projects_2024/afinador_violao.pdf) 
     
 <hr>
 
